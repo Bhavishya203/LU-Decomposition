@@ -35,8 +35,8 @@ Step 5: End of the Program.
 ## Program:
 ```
 '''Program to find L and U matrix using LU decomposition.
-Developed by: S.ABHISHEK    
-RegisterNumber: 21004552
+Developed by:   Mitta bhavishya reddy 
+RegisterNumber: 21002548
 '''
 
 # To print L and U matrix
